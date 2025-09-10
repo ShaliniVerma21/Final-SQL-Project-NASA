@@ -1,6 +1,10 @@
 
 # 🚀 Final-SQL-Project-NASA  
 
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/b55bc8d5-67fb-4d50-9700-36fbed7e7db1" />
+
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/Final-SQL-Project-NASA?color=blue)  
 ![GitHub stars](https://img.shields.io/github/stars/USERNAME/Final-SQL-Project-NASA?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/USERNAME/Final-SQL-Project-NASA?style=social)  
